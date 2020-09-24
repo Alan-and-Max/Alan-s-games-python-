@@ -6,4 +6,6 @@ Name = input()
 time.sleep(1)
 Name1 = Name + '?'
 print(Name1)
-print('Good game.')
+print('Good name.')
+print('Let us play!')
+print('Guess a number')
